@@ -1,1 +1,8 @@
-
+<bug_report>
+  <id>100</id>
+  <severity>critical</severity>
+  <priority>high</priority>
+  <summary>поле ввода пароля принимает символы</summary>
+  <environment>MacBook air m1,Chrome 116</environment>
+  <opersystem>Ventura 13.5</opersystem>
+</bug_report>
