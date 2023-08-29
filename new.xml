@@ -1,0 +1,10 @@
+<infoaboutme>
+  <person>
+    <name>Mikhail</name>
+    <surname>Pozdeev</surname>
+    <age>32</age>
+  </person>
+      <pets>
+        <petsnumber>2</petsnumber>
+      </pets>
+  <expectedsalary>1500$</expectedsalary>
